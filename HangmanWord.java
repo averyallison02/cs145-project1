@@ -1,3 +1,6 @@
+// CS 145
+// Avery Allison
+
 public class HangmanWord {
 
     private String fullWord;
